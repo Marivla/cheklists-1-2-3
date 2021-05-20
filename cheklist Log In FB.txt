@@ -1,0 +1,25 @@
+Check List Log In
+https://www.facebook.com/
+1. Registration
+ - checking an existing user
+ - checking for a non-existing user
+ - refusal to log in to a blocked user
+ - checking the keyboard display (mobile)
+ - checking the display of the digital tableau when entering a phone number (mobile)
+ - checkinf the displaying the letter tableau when entering an email (mobile)
+2. Validation of input fields
+ - maximum input character length
+ - minimum input character length
+ - checking the input of valid characters
+ - mandatory completion of all fields
+ - introduction of invalid data
+ - displaying hints in an empty field
+ - checking the introduction of incorrect characters and symbols
+ 3. Screen
+ - сhecking the interface dimensions (scale)
+ - сhecking the readability of the text
+ - сhecking the dimension of buttons 
+ - checking the mode change when turning the device (form)
+ 4. Efficiency
+ - simultaneous login from multiple devices
+ - checking the use of cookies

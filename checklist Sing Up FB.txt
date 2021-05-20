@@ -1,0 +1,32 @@
+Check List Sign Up
+https://www.facebook.com/
+1. Create a new account
+ - clickability of the sing up button
+2. Filling out the registration form
+ - valid form completion
+ - checking whether tooltips are displayed in blank form fields
+ - partial filling in of the form with valid data
+ - partial filling in of the form with invalid data
+ - double-click on the name field
+ 3. Date of birth
+ - checking the drop-down list in days
+ - checking the drop-down list in months
+ - checking the drop-down list in years
+ - filling in valid data
+ - introduction of invalid data
+4. Gender
+ - the ability to select only one option
+ - integer transition from one option to another
+ - checking the Custom button
+5. Сonsent to data processing
+ - link clickability terms
+ - link clickability data policy
+ - link clickability cookoe policy
+ 4. Sing Up
+ - button efficiency
+ - checking whether cookies are saved on devices
+ - simultaneous login from multiple devices
+ - multiple clicks on the registration button
+ - selecting all labels plus inter
+ - pressing the sing up button without filling in the fields
+
